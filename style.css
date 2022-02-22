@@ -1,0 +1,12 @@
+body{
+ text-align:center;
+}
+.btn{
+ border: soild 2px black;
+ width: 100px;
+ height: 100px;
+ display: inline;
+ font-size: 30px;
+ color:#ffffff;
+ background-color:#7d7266;
+}
